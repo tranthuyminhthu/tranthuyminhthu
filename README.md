@@ -4,5 +4,5 @@
 </p>
 
 
-- ✍ QC Automation Engineer.
+QA Automation Engineer
 
